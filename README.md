@@ -17,7 +17,7 @@ https://github.com/shekhargulati/java8-the-missing-tutorial
 - 接口中增加静态方法 ,和抽象类的对比 可参考[讨论](http://www.oschina.net/question/1580378_149995?sort=time)
 - lambda表达式和 匿名类的对比,说的很详细
 - Stream和Collection的区别
-- 
+- Collectors的基本操作
 
 
 ## stackoverflow目前正在beta版本测试的文本功能,很不错,值得推荐
